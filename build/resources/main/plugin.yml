@@ -1,0 +1,8 @@
+name: ElowyrBoss
+author: AnZok
+version: 1.0
+main: fr.elowyr.boss.ElowyrBoss
+commands:
+  bossrare:
+  bossepique:
+  bosslegendaire:

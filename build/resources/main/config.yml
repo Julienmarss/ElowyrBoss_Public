@@ -1,0 +1,21 @@
+boss:
+  rare:
+    name: "Boss Rare"
+    killed-broadcast: "&f Le bossRare &fa été tué par &b%killer% &f!"
+    life: "&6&l⚔ &c&lBoss &7- &fRare &6&l⚔ &f• &d%heal%&b/&d%healmax%&c❤"
+  epique:
+    name: "Boss Epique"
+    killed-broadcast: "&f Le bossRare &fa été tué par &b%killer% &f!"
+    life: "&6&l⚔ &c&lBoss &7- &fRare &6&l⚔ &f• &d%heal%&b/&d%healmax%&c❤"
+  legendaire:
+    name: "Boss Legendaire"
+    killed-broadcast: "&f Le bossRare &fa été tué par &b%killer% &f!"
+    life: "&6&l⚔ &c&lBoss &7- &fRare &6&l⚔ &f• &d%heal%&b/&d%healmax%&c❤"
+
+items:
+  rare:
+    - "give %player% diamond 64"
+  epique:
+    - "give %player% diamond 64"
+  legendaire:
+    - "give %player% diamond 64"
